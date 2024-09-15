@@ -1,0 +1,46 @@
+.container{
+      height:100%;
+      width:100%;
+      text-align: center;
+}
+.row{
+      margin-left: 20%;
+      margin-right: 20%;
+      height:max-content;
+      width: max-content;
+      display:grid;
+      grid-template-columns: auto auto auto auto;
+      gap: 10px 10px;
+}
+.btn{
+      height: 200px;
+      width: 200px;
+}
+.one{
+      background-color: blueviolet;
+}
+.two{
+      background-color: aliceblue;
+}
+.three{
+      background-color: aqua;
+}
+.four{
+      background-color: bisque;
+}
+.five{
+      background-color: aquamarine;
+}
+.six{
+      background-color: black;
+}
+.seven{
+      background-color: burlywood;
+}
+.eight{
+      background-color: beige;
+}
+.pressed{
+      background-color: brown;
+}
+
